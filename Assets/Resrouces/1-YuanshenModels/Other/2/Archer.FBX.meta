@@ -1,11 +1,8 @@
 fileFormatVersion: 2
-guid: 74edd55cab3b9154480f4e7f8135e4af
+guid: 5582bf28b97c944468531f5b51ddd98f
 ModelImporter:
-  serializedVersion: 21300
-  internalIDToNameTable:
-  - first:
-      74: 1827226128182048838
-    second: Take 001
+  serializedVersion: 22200
+  internalIDToNameTable: []
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -17,7 +14,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
-    removeConstantScaleCurves: 1
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -43,6 +40,7 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -70,6 +68,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -79,13 +78,13 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips:
-  - e49237c7b827aa4438934e29d199314f
-  - 5692fb0f0ae4bfa45b1dda0c2615f4e1
-  - 3fe0c3f8192a688479bee81efa9f495e
-  - 6632ae038379aca4d8e8b4e3bdeb23d5
-  - e7a9639bc43d0af448074cb5b383e892
-  - 89043a6585bf116499e62c45dfed4ad2
-  - ab82ebeb5459df84e8edd5b4cfcb5586
+  - 7e381e9f84c8bbc4b8b0277eabe34e3b
+  - d7e77efff2d80d245a2f4fe4091b9399
+  - a2ba61e1ee1e34f4bab1af1cfe82bc68
+  - ad86eb5161092584f97c0e6ba7e90d32
+  - 7bc4e1b12b96a7448a08a38a03b8f20c
+  - 0a093a2636a412940b0bd4a5310b5a51
+  - cc14d3202e28125448687910a424152d
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
@@ -109,6 +108,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
