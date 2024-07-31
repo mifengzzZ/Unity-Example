@@ -4,6 +4,12 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    public Mesh m_mesh;
+    public MeshFilter m_meshFilter;
+    public MeshRenderer m_meshRenderer;
+    public MeshCollider m_meshCollider;
+    public MeshTopology m_meshTopology;
+
     public float speed = 1f;
     public float turnSpeed = 20f;
 
